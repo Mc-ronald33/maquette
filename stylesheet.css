@@ -1,0 +1,159 @@
+body{
+    color: white;
+}
+
+#container{
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    background-image: url(img/full.jpg);
+}
+
+h4{
+    background-color: Yellow;
+    color : black;
+     margin-top: -20px;
+}
+
+section{
+    padding: 8px;
+    width: 380px;
+    padding-left: 25px;
+}
+
+h2{
+    border-top: 4px solid yellow;
+    width: 230px;
+
+    margin-top: 4px;
+}
+
+em{
+    font-style: normal;
+    color: yellow;
+}
+
+#filed{
+    border-left: 4px solid yellow;
+    padding-left: 2px;
+}
+  
+#img1{
+    float: left;
+    border: 2px solid yellow;
+    padding: 2px;
+}
+
+#img2{
+    float: right;
+    border: 2px solid yellow;
+    padding: 2px;
+}
+
+#p2{
+    background:#303030;
+    border-top: 2px solid yellow;
+    border-bottom: 2px solid yellow;
+}
+
+.li1{
+    list-style-image : url(img/bullet.gif);
+}
+
+td{
+    border-bottom: 1px solid grey;
+    padding: 5px;
+    width : 150px;
+}
+
+tbody{
+    color: grey;
+    background-color: #0B1616;
+}
+
+.li2{
+    list-style-image : url(img/star1.jpg);
+}
+
+#title{
+    background: url(img/title.jpg);
+    width: 270px;
+    height: 370px;
+    margin-left:-15px;
+    margin-top: -40px;
+    margin-bottom: 60px;
+}
+
+
+.free{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 60px;
+    padding-left: 50px;
+  
+}
+
+.style{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 25px;
+    
+}
+
+#background{
+    background-image: url(img/bg.jpg);
+}
+
+
+
+#up{
+    border: 2px solid yellow;
+    width: 230px;
+    height: 450px;
+}
+
+
+#updates{
+    margin-bottom: 60px;    
+}
+
+#side{
+      border: 2px solid yellow;
+      width: 230px;
+    }
+
+.table1{
+    float: left;
+
+}
+.table2{
+    float: right;
+    }
+
+#container{
+    display:flex;
+}
+
+
+aside{
+    padding-left: 30px;
+}
+
+#ul1{
+    margin-bottom: 60px;
+}
+
+.title4{
+    color: deeppink;
+    font-weight: bold;
+    padding: 5px;
+    
+}
+
+.p4{
+    padding : 8px;
+}
